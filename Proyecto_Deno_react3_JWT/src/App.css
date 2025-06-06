@@ -1,0 +1,26 @@
+.app-container {
+  height: 100vh;
+}
+
+.side-image {
+  background-image: url('/path-to-your-image.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.form-container {
+  background-color: #f9f9f9;
+}
+
+.form-box {
+  width: 80%;
+  max-width: 400px;
+  padding: 2rem;
+  background: #ffffff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.submit-button {
+  margin-top: 1.5rem;
+}
